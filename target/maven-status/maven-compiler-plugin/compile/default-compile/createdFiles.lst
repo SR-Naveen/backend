@@ -1,0 +1,5 @@
+com\example\demoProject\Model\Protocol.class
+com\example\demoProject\Service\ProtocolService.class
+com\example\demoProject\DemoProjectApplication.class
+com\example\demoProject\Repository\ProtocolRepository.class
+com\example\demoProject\Controller\ProtocolController.class
